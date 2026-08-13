@@ -40,20 +40,22 @@ I'm currently focused on strengthening my skills in **Data Structures & Algorith
 
 ---
 
-# 🧩 LeetCode
+## 🧩 LeetCode
 
-I'm consistently solving LeetCode problems to improve my problem-solving and algorithmic skills.
-
-### 📊 LeetCode Stats
+I regularly solve LeetCode problems to strengthen my
+Data Structures & Algorithms and problem-solving skills.
 
 <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sajid307/leetcode/main/profile/leetcode.svg"
+    alt="Sajid-307 LeetCode Statistics"
+  />
+</p>
 
-<img
-  src="https://leetcode-status.vercel.app/api/card/Sajid-307"
-  width="600"
-  alt="Sajid-307 LeetCode Stats"
-/>
-
+<p align="center">
+  <a href="https://github.com/Sajid307/leetcode">
+    View My LeetCode Solutions →
+  </a>
 </p>
 
 ### 🔥 Problem Solving
