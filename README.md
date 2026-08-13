@@ -53,8 +53,12 @@ Data Structures & Algorithms and problem-solving skills.
 </p>
 
 <p align="center">
+  <a href="https://leetcode.com/u/Sajid-307/">
+    🧩 View My LeetCode Profile
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/Sajid307/leetcode">
-    View My LeetCode Solutions →
+    💻 View My Solutions
   </a>
 </p>
 
