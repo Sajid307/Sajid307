@@ -52,13 +52,22 @@ Data Structures & Algorithms and problem-solving skills.
   />
 </p>
 
+### 📅 LeetCode Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sajid307/leetcode/main/profile/heatmap.svg"
+    alt="Sajid-307 LeetCode Activity Heatmap"
+  />
+</p>
+
 <p align="center">
   <a href="https://leetcode.com/u/Sajid-307/">
-    🧩 View My LeetCode Profile
+    🧩 View LeetCode
   </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <a href="https://github.com/Sajid307/leetcode">
-    💻 View My Solutions
+    💻 View Solutions
   </a>
 </p>
 
