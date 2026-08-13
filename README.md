@@ -1,16 +1,108 @@
-## Hi there 👋
+# 👋 Hi, I'm Sajid Ansari
 
-<!--
-**Sajid307/Sajid307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Java Backend Developer
 
-Here are some ideas to get you started:
+I build scalable backend applications using **Java, Spring Boot, Microservices, Kafka, AWS and PostgreSQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focused on strengthening my skills in **Data Structures & Algorithms, System Design and Distributed Systems**.
+
+---
+
+## 🧑‍💻 About Me
+
+- 💼 Software Engineer
+- ☕ Java & Spring Boot Developer
+- 🚀 Interested in scalable backend systems
+- 🧩 Practicing Data Structures & Algorithms
+- 🏗️ Learning System Design
+- ☁️ Experience with AWS
+- 📍 India
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+`Java` `Spring Boot` `Spring WebFlux` `REST APIs`
+
+### Databases
+
+`PostgreSQL` `MongoDB` `MySQL`
+
+### Distributed Systems
+
+`Kafka` `RabbitMQ` `Redis`
+
+### Cloud & DevOps
+
+`AWS` `Docker` `Kubernetes` `Jenkins`
+
+---
+
+# 🧩 LeetCode
+
+I'm consistently solving LeetCode problems to improve my problem-solving and algorithmic skills.
+
+### 📊 LeetCode Stats
+
+<p align="center">
+
+<img
+  src="https://leetcode-status.vercel.app/api/card/Sajid-307"
+  width="600"
+  alt="Sajid-307 LeetCode Stats"
+/>
+
+</p>
+
+### 🔥 Problem Solving
+
+| Metric | Progress |
+|---|---:|
+| 🧩 Problems Solved | Automatically updated |
+| 📅 Active Days | Automatically updated |
+| 🔥 Current Streak | Automatically updated |
+| 🏆 Max Streak | Automatically updated |
+
+---
+
+## 📚 Recent LeetCode Activity
+
+My solutions and progress are maintained in my:
+
+👉 [LeetCode Repository](https://github.com/Sajid307/leetcode)
+
+---
+
+## 🚀 Featured Projects
+
+### AI Interview Assistant
+
+Backend application integrating AI models for interview preparation.
+
+**Tech:** Java 21, Spring Boot, Kafka, Redis, PostgreSQL, Docker
+
+### Media Management Platform
+
+Reactive backend for media management.
+
+**Tech:** Java, Spring WebFlux, PostgreSQL, AWS S3
+
+### Intelligent Routing Application
+
+AI-based routing system using event-driven architecture.
+
+**Tech:** Java, Spring WebFlux, MongoDB, Kafka, RabbitMQ
+
+---
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sajid307-black?style=for-the-badge&logo=github)](https://github.com/Sajid307)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Sajid--307-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Sajid-307/)
+
+---
+
+⭐ Thanks for visiting my profile!
