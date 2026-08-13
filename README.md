@@ -182,33 +182,6 @@ using generative AI.
 
 ---
 
-### 🎙️ Media Management Platform
-
-Enterprise platform for managing IVR multimedia assets.
-
-**Tech:** `Java` `Spring WebFlux` `PostgreSQL` `AWS S3`
-
-- Built reactive backend services for media processing
-- Implemented concurrent audio processing and transcript reconstruction
-- Designed scalable file distribution across **100+ downstream servers**
-- Implemented multipart object-storage uploads with parallel chunking
-
----
-
-### 🧠 Intelligent Routing Application
-
-AI-assisted contact-center routing platform using event-driven architecture.
-
-**Tech:** `Java` `Spring WebFlux` `Kafka` `RabbitMQ` `MongoDB`
-
-- Processed **500+ real-time events per minute**
-- Implemented Kafka-based asynchronous request-response processing
-- Solved high-concurrency request correlation issues
-- Implemented idempotent event processing for duplicate Kafka deliveries
-- Improved reliability of reactive multi-step processing pipelines
-
----
-
 ## 🧩 LeetCode
 
 I regularly solve LeetCode problems to strengthen my
