@@ -61,13 +61,15 @@ Data Structures & Algorithms and problem-solving skills.
   />
 </p>
 
+### 🧠 Recent Problems
+
 <p align="center">
-  <a href="https://leetcode.com/u/Sajid-307/">
-    🧩 View LeetCode
+  <a href="https://github.com/Sajid307/leetcode/blob/main/profile/recent-problems.md">
+    🧩 View Recent Problems
   </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/Sajid307/leetcode">
-    💻 View Solutions
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/Sajid307/leetcode/tree/main/logs">
+    📅 View Daily Logs
   </a>
 </p>
 
