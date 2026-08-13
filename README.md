@@ -278,24 +278,9 @@ I'm particularly interested in:
 
 ---
 
-## 📊 GitHub Activity
-
-<!--
-GitHub contribution graph is automatically provided by GitHub.
--->
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sajid307&show_icons=true&hide_border=true&count_private=true"
-    alt="Sajid307 GitHub Stats"
-  />
-</p>
-
----
-
 ## 📫 Connect With Me
 
-<p align="left">
+### 📧 Email
 
 <a href="mailto:sajidansari307@gmail.com">
   <img
@@ -304,12 +289,16 @@ GitHub contribution graph is automatically provided by GitHub.
   />
 </a>
 
+### 💼 LinkedIn
+
 <a href="https://www.linkedin.com/in/sajidansari307/">
   <img
     src="https://img.shields.io/badge/LinkedIn-Sajid%20Ansari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
+
+### 💻 GitHub
 
 <a href="https://github.com/Sajid307">
   <img
@@ -318,14 +307,14 @@ GitHub contribution graph is automatically provided by GitHub.
   />
 </a>
 
+### 🧩 LeetCode
+
 <a href="https://leetcode.com/u/Sajid-307/">
   <img
     src="https://img.shields.io/badge/LeetCode-Sajid--307-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
     alt="LeetCode"
   />
 </a>
-
-</p>
 
 ---
 
