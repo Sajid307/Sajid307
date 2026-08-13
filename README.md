@@ -82,11 +82,19 @@ Data Structures & Algorithms and problem-solving skills.
 
 ---
 
-## 📚 Recent LeetCode Activity
+### 🧠 Recent LeetCode Problems
 
-My solutions and progress are maintained in my:
+I continuously practice DSA and maintain my progress automatically.
 
-👉 [LeetCode Repository](https://github.com/Sajid307/leetcode)
+<p align="center">
+  <a href="https://github.com/Sajid307/leetcode/blob/main/profile/recent-problems.md">
+    🧩 View Recent Problems
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/Sajid307/leetcode/tree/main/logs">
+    📅 View Daily Logs
+  </a>
+</p>
 
 ---
 
